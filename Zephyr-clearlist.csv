@@ -585,7 +585,7 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 584,I just want to align,2020.06.12,1361,01:33:55,62.6,18915
 585,I wanna reject the uhuhu,2020.06.14,511,00:26:05,54.9,21899
 586,I wanna clear the fifty floors,2020.06.15,1864,02:25:55,67.1,17268
-587,tiao_ci,2020.06.15,227,00:15:57,40.0,0
+587,tiao_ci,2020.06.15,227,00:15:57,40.0,-1
 588,ProMethium,2020.06.18,310,00:28:55,53.1,18891
 589,I wanna thank you Shadowlink57,2020.06.19,361,00:19:05,63.3,17036
 590,I wanna be the science era,2020.06.19,1191,00:58:31,66.8,15501
@@ -615,8 +615,8 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 614,"Meteor2i3, happy birthday!",2020.07.19,437,00:38:31,56.8,22173
 615,I wanna fall into depression and never be happy again,2020.07.20,719,00:56:28,67.4,22182
 616,I wanna get the only dot,2020.07.21,986,01:24:52,71.4,11561
-617,I wanna hear the wind,2020.07.21,80,00:06:50,,0
-618,I wanna practice bh and jc !,2020.07.23,149,00:06:06,,0
+617,I wanna hear the wind,2020.07.21,80,00:06:50,,-1
+618,I wanna practice bh and jc !,2020.07.23,149,00:06:06,,-1
 619,I wanna be the YumeKawaii,2020.07.24,39,00:09:55,38.6,22172
 620,I wanna Gnol2,2020.07.24,1820,01:39:09,71.1,16126
 621,I wanna be the M spike,2020.07.27,346,00:02:44,63.7,22210
@@ -628,7 +628,7 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 627,Retaw,2020.08.04,1039,01:19:28,65.0,22950
 628,I wanna ◇,2020.08.07,538,00:11:21,59.8,16344
 629,I wanna be the TsuTaMao,2020.08.07,1076,00:51:45,68.8,14693
-630,Iwanna Instant,2020.08.08,237,00:27:58,,0
+630,Iwanna Instant,2020.08.08,237,00:27:58,,-1
 631,I wanna swim in the sea,2020.08.11,31,00:07:26,27.0,22949
 632,Untitled90,2020.08.11,310,00:23:27,55.3,22312
 633,Untitled15,2020.08.12,374,00:34:25,61.0,19950
@@ -658,7 +658,7 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 657,I wanna bright my sky,2020.09.01,21,00:03:39,31.0,22386
 658,Not Another Easy Game,2020.09.02,23,00:07:03,N/A,18042
 659,Happy Birthday Medley(all clear),2020.09.06,332,00:36:51,46.0,22398
-660,I wanna be the matryoshka SP version,2020.09.07,585,01:12:12,50.0,0
+660,I wanna be the matryoshka SP version,2020.09.07,585,01:12:12,53.1,22394
 661,I wanna summer JUMP,2020.09.07,5,00:04:06,N/A,22944
 662,I wanna be the Elpis(without extra),2020.09.08,1647,01:14:27,66.5,23811
 663,2011 needle hole,2020.09.08,522,00:21:10,53.2,22408
@@ -666,7 +666,7 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 665,I wanna run out of ideas,2020.09.26,444,00:14:47,66.0,18540
 666,I wanna take the second L,2020.09.26,555,00:14:49,52.9,22448
 667,I wanna be the hades,2020.09.29,1015,00:23:31,71.7,14978
-668,I wanna be the simple hentai,2020.10.03,55,00:09:03,30.5,0
+668,I wanna be the simple hentai,2020.10.03,55,00:09:03,30.5,22569
 669,I wanna fakyo,2020.10.04,239,00:04:15,55.0,22939
 670,I wanna fakyo 2,2020.10.04,300,00:06:53,55.0,22940
 671,Melancholy needle 2,2020.10.05,2527,02:11:29,70.0,22505
@@ -674,13 +674,13 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 673,I wanna XXIII spike,2020.10.07,3615,04:48:35,73.5,22468
 674,a cup of purify water,2020.10.08,87,00:09:49,N/A,23752
 675,I wanna be the dononite,2020.10.11,304,00:11:16,51.2,22489
-676,I wanna dodge the Yuzuki Spikes,2020.10.24,113,00:05:32,43.8,0
+676,I wanna dodge the Yuzuki Spikes,2020.10.24,113,00:05:32,43.8,19561
 677,I wanna Chill out,2020.10.24,737,00:57:46,63.2,22546
 678,Water!,2020.10.25,15,00:03:13,32.4,22568
 679,I wanna be the SKR,2020.10.25,162,00:11:12,41.6,15428
 680,I wanna fly out of this storm,2020.10.29,399,00:28:13,60.5,22573
 681,I wanna fix what's wrong(original),2020.10.31,147,00:09:06,52.7,22589
-682,Chew 025,2020.11.01,1717,00:48:36,65.0,0
+682,Chew 025,2020.11.01,1717,00:48:36,65.0,22929
 683,I wanna practice needle-making,2020.11.06,393,00:40:08,50.9,22584
 684,I wanna tickle,2020.11.06,952,00:40:47,68.3,12494
 685,I wanna 514,2020.11.13,80,00:07:34,42.5,22641
@@ -693,7 +693,7 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 692,I wanna adventure,2020.11.28,55,00:08:40,,-1
 693,Matige Needle,2020.11.29,469,00:19:03,50.1,22687
 694,Rainy day,2020.11.29,85,00:08:44,45.2,22689
-695,I wanna be the spectacular spike game,2020.12.04,765,00:37:31,,0
+695,I wanna be the spectacular spike game,2020.12.04,765,00:37:31,,-1
 696,I wanna be the nebula,2020.12.05,428,00:08:52,61.6,22631
 697,Chew 045,2020.12.13,182,00:05:38,56.0,23730
 698,I wanna be the 100 SGGK Riser,2020.12.13,145,00:04:40,43.2,15078
@@ -704,7 +704,7 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 703,I wanna RED NEEDLE,2020.12.29,1118,00:43:44,62.5,22716
 704,Phase 1-1,2020.12.31,229,00:22:31,49.7,22795
 705,I wanna 1spike,2020.12.31,206,00:21:47,38.9,22775
-706,I wanna play 60 single needles,2021.01.02,143,00:10:02,,0
+706,I wanna play 60 single needles,2021.01.02,143,00:10:02,,-1
 707,I wanna beat sheep spike,2021.01.02,266,00:04:51,N/A,25439
 708,I wanna 1389,2021.01.02,798,01:28:27,64.2,21073
 709,Phase 1-2,2021.01.09,202,00:20:01,54.2,22816
@@ -724,13 +724,13 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 723,Downer,2021.01.25,307,00:23:59,55.2,22828
 724,I wanna be The 'y' where (y · 4!) ÷ 15 = 51.2,2021.01.25,1217,01:42:07,70.1,19598
 725,Aguacateca,2021.01.26,123,00:11:56,40.2,23032
-726,I wanna be a lovely child,2021.01.29,2832,02:47:36,71.3,0
+726,I wanna be a lovely child,2021.01.29,2832,02:47:36,71.2,22838
 727,Clam needle,2021.01.31,266,00:12:13,53.6,22840
 728,Landing Only,2021.01.31,8,00:01:56,N/A,24235
 729,Whale fall,2021.02.02,491,00:31:07,54.0,22858
 730,Chew 088,2021.02.04,295,00:25:42,52.5,22852
 731,I wanna be the shine needle,2021.02.04,581,00:45:56,54.6,22854
-732,I wanna walk out of haziness of pain and sadness,2021.02.05,653,01:04:59,64.0,0
+732,I wanna walk out of haziness of pain and sadness,2021.02.05,653,01:04:59,61.3,22853
 733,I wanna penetrate big seven,2021.02.05,198,00:13:32,N/A,22930
 734,I wanna master four needles,2021.02.06,287,00:12:29,56.6,22843
 735,I wanna be the powder toy,2021.02.07,2683,01:13:56,68.3,16838
@@ -743,14 +743,14 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 742,Strawberry needle,2021.02.09,98,00:10:47,46.5,22870
 743,I wanna be the efreet,2021.02.09,2556,00:36:33,71.0,21687
 744,Phonotaxis,2021.02.10,1801,01:43:57,82.0,17864
-745,I wanna conquer the night,2021.02.11,91,00:08:45,,0
+745,I wanna conquer the night,2021.02.11,91,00:08:45,,-1
 746,I wanna jump the rainbow(all clear),2021.02.12,3667,02:52:56,68.7,15361
 747,I wanna be the neurosis,2021.02.12,313,00:25:20,59.6,14827
 748,I wanna WOW,2021.02.13,350,00:13:33,56.4,12507
-749,I wanna 創世神spike 2,2021.02.14,14,00:00:55,39.3,0
+749,I wanna 創世神spike 2,2021.02.14,14,00:00:55,39.3,17554
 750,Spring,2021.02.15,636,00:39:45,59.5,22891
-751,Heaven needle 2,2021.02.16,212,00:17:49,,0
-752,I wanna Rhythm,2021.02.17,58,00:07:28,,0
+751,Heaven needle 2,2021.02.16,212,00:17:49,,-1
+752,I wanna Rhythm,2021.02.17,58,00:07:28,,-1
 753,Iwanna W,2021.02.17,485,00:05:25,58.4,22900
 754,I wanna be the nuclear fusion remake,2021.02.18,116,00:09:03,63.1,22877
 755,Wake up,2021.02.20,80,00:07:18,41.1,22915
@@ -790,12 +790,12 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 789,I wanna duloxetine(without secret),2021.03.19,820,01:24:34,59.4,23031
 790,I wanna eat my literature textbook,2021.03.21,219,00:10:12,51.5,23021
 791,Happy birthday to zeroyume,2021.03.24,462,00:46:21,47.3,23309
-792,I wanna be the konerj,2021.03.25,527,00:15:15,,0
+792,I wanna be the konerj,2021.03.25,527,00:15:15,,-1
 793,SparkShadow Needle,2021.04.01,1978,02:09:48,59.3,23080
 794,Float,2021.04.01,553,01:27:08,57.5,23062
 795,I wanna gensoukyo,2021.04.01,166,00:17:39,46.6,17816
-796,I wanna eat strawberry cake,2021.04.06,116,00:19:37,,0
-797,Iwanna wait for a game,2021.04.08,247,00:11:14,,0
+796,I wanna eat strawberry cake,2021.04.06,116,00:19:37,,-1
+797,I wanna wait for a game,2021.04.08,247,00:11:14,,21433
 798,Pigeon needle 2021,2021.04.10,4721,04:33:28,78.8,22906
 799,I wanna release something,2021.04.18,731,00:50:00,58.3,23102
 800,I wanna be the 易しいアイワナ,2021.04.18,0,00:00:38,3.0,23113
@@ -803,16 +803,16 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 802,I wanna play around with nikaple 2 engine,2021.05.16,77,00:04:53,N/A,23146
 803,Chew 032,2021.05.21,239,00:24:17,52.0,23719
 804,Phantom needle IV,2021.05.27,2179,03:27:38,74.3,18944
-805,I wanna break what's right,2021.05.29,321,00:14:49,62.4,0
+805,I wanna break what's right,2021.05.29,321,00:14:49,61.7,23195
 806,I wanna XYZ spike,2021.06.06,132,00:07:03,50.1,23220
 807,I wanna make some easy needle,2021.06.06,190,00:17:05,47.5,23216
 808,Golf Girl,2021.06.09,116,00:18:33,44.0,23231
 809,I wanna myosotis,2021.06.09,1082,00:24:37,62.5,23228
 810,LTO,2021.06.12,202,00:06:23,60.9,12404
 811,I Wanna ⚫⚪,2021.06.13,1224,00:46:16,60.7,23232
-812,5 maps,2021.06.13,107,00:11:21,,0
+812,5 maps,2021.06.13,107,00:11:21,35.0,24054
 813,Phase 2-1,2021.06.13,509,00:46:09,54.9,23247
-814,I wanna be the passage,2021.06.15,223,00:19:25,,0
+814,I wanna be the passage,2021.06.15,223,00:19:25,,-1
 815,Gimmick spike,2021.06.15,88,00:14:30,39.3,23244
 816,SaKeYi spike,2021.06.15,321,01:39:41,65.7,23245
 817,Love her madly,2021.06.22,45,00:04:47,51.6,23265
@@ -823,12 +823,12 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 822,Wavetapper,2021.06.23,42,00:07:11,42.4,23280
 823,The Sunken Cathedral,2021.06.30,657,01:02:14,70.3,23287
 824,I wanna make boboniu noodle,2021.07.06,510,00:35:45,52.0,23295
-825,Happy Birthday to Myself,2021.07.16,254,00:31:03,,0
+825,Happy Birthday to Myself,2021.07.16,254,00:31:03,,-1
 826,I wanna be the Mr.Spike,2021.07.17,670,00:38:49,62.8,23328
 827,I wanna destroy the neptune,2021.07.17,271,00:14:35,N/A,24047
 828,Dead End St.,2021.07.18,153,00:08:50,52.8,23333
-829,I wanna pursue starlight,2021.07.19,250,00:19:57,,0
-830,A Sky Luminous with Stars,2021.07.19,233,00:25:10,,0
+829,I wanna pursue starlight,2021.07.19,250,00:19:57,,-1
+830,A Sky Luminous with Stars,2021.07.19,233,00:25:10,,-1
 831,I wanna be the Serein,2021.07.20,250,00:18:07,60.8,23335
 832,Rainbow Dash World,2021.07.20,148,00:15:57,46.5,23338
 833,Pigstep,2021.07.20,818,00:41:41,62.6,23339
@@ -849,13 +849,13 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 848,I wanna break the gourdladle,2021.08.11,1587,01:19:57,66.8,23092
 849,I wanna 32 square 3,2021.08.16,279,00:26:26,55.7,23502
 850,I wanna be the nered,2021.08.16,180,00:07:27,60.0,23493
-851,I wanna kill the sparkshadow,2021.08.20,166,00:12:22,,0
+851,I wanna kill the sparkshadow,2021.08.20,166,00:12:22,,-1
 852,I don't wanna dwell,2021.08.20,1186,01:24:48,69.7,23529
 853,Poor Mind,2021.08.20,82,00:13:29,43.6,23540
 854,I wanna be the Immaculate Scumble,2021.08.22,2042,02:28:39,72.7,23367
 855,Ice Reign,2021.08.26,0,00:01:26,24.5,23562
 856,I wanna have a good relax,2021.08.27,12,00:03:46,18.2,23558
-857,Feelin Tired,2021.08.29,160,00:18:01,44.6,0
+857,Feeling Tired,2021.08.29,160,00:18:01,46.5,23572
 858,Bygones,2021.08.30,59,00:09:47,43.1,23581
 859,I wanna run into the night,2021.09.04,11,00:04:03,17.6,23556
 860,Till the sunrise,2021.09.04,355,00:26:28,57.7,23593
@@ -878,18 +878,18 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 877,I wanna walk the blue 2,2021.11.27,93,00:13:39,43.4,23880
 878,Wathet,2022.01.06,186,00:18:47,52.0,23876
 879,our story,2022.01.19,109,00:19:30,39.0,24017
-880,I wanna merry christmas to you,2022.01.19,13,00:03:27,,0
+880,I wanna merry christmas to you,2022.01.19,13,00:03:27,,-1
 881,I wanna rewrite the past,2022.01.19,317,00:35:03,55.8,23959
 882,I wanna hzw needle,2022.01.28,42,00:09:07,23.8,24275
 883,I wanna be the perfect blue,2022.01.29,594,00:49:00,61.0,23905
-884,Chew 022,2022.01.29,234,00:08:44,,0
-885,"Happy new year's eve, happy new year!",2022.02.02,0,00:00:26,33.8,0
+884,Chew 022,2022.01.29,234,00:08:44,,-1
+885,"Happy new year's eve, happy new year!",2022.02.02,0,00:00:26,29.0,24331
 886,Thanks for 2021!!,2022.02.02,31,00:10:12,35.8,24329
 887,Puzzle,2022.02.04,11,00:18:48,31.6,24337
 888,I wanna make an excellent yinmad,2022.02.07,133,00:27:33,N/A,23886
 889,I wanna simple adventure,2022.02.10,93,00:17:23,34.9,24355
 890,SMJB needle,2022.02.11,1104,01:46:08,66.4,24335
-891,I wanna detroy PSR0531+21,2022.02.12,513,00:40:34,,0
+891,I wanna detroy PSR0531+21,2022.02.12,513,00:40:34,65.0,21482
 892,I wanna empleh,2022.02.12,23,00:05:30,42.3,24368
 893,Leap over,2022.02.12,835,00:56:42,74.0,24377
 894,I wanna get started,2022.02.17,214,00:20:08,57.8,24372
@@ -899,19 +899,19 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 898,I wanna rely the needle 4.5,2022.03.03,15,00:05:16,30.4,25483
 899,I wanna beat the alphabet,2022.03.08,0,00:03:19,28.4,24421
 900,Speedy_Mar09,2022.03.10,38,00:06:13,35.0,24428
-901,unorthodox rubbish spike,2022.03.11,257,00:18:18,45.0,0
+901,unorthodox rubbish spike,2022.03.11,257,00:18:18,45.0,24440
 902,falling ways,2022.03.13,2721,03:10:43,69.1,24376
-903,Chew 002,2022.03.17,178,00:26:46,,0
+903,Chew 002,2022.03.17,178,00:26:46,,-1
 904,Chris sadboy needle,2022.04.03,0,00:00:26,17.2,24539
-905,"Plume, Happy birthday!",2022.04.05,2533,02:35:26,70.0,0
-906,I wanna eat watermelon,2022.04.08,16,00:04:45,,0
+905,"Plume, Happy birthday!",2022.04.05,2533,02:35:26,70.0,24543
+906,I wanna eat watermelon,2022.04.08,16,00:04:45,,-1
 907,I wanna go to secret needle,2022.04.17,13,00:02:54,38.0,24657
 908,I wanna jumping spikes 2,2022.04.18,150,00:11:48,57.7,24645
 909,I wanna take the neon highway,2022.04.19,702,00:58:50,68.3,25310
 910,I wanna be the AIW,2022.04.28,776,00:35:23,56.4,24877
 911,Eggplant present 2022,2022.04.28,17,00:25:55,52.8,24879
 912,I wanna walk through solstice,2022.04.28,335,00:27:07,61.5,24878
-913,I wanna let the 32px world back,2022.05.04,770,00:37:20,,0
+913,I wanna let the 32px world back,2022.05.04,770,00:37:20,,-1
 914,I wanna catch reflection of stars in the sea,2022.05.07,226,00:22:24,58.0,24880
 915,I wanna consume you entirely,2022.05.08,192,00:08:23,54.4,24881
 916,I wanna best the 100 floors,2022.06.03,6324,06:55:41,68.7,21381
@@ -920,26 +920,26 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 919,Bnuuy,2022.06.23,56,00:08:59,51.7,25049
 920,I wanna dodge fruit,2022.06.24,67,00:05:20,50.0,25059
 921,I wanna disconnect,2022.06.26,4205,06:06:23,73.3,25062
-922,"I wanna get up, burst into motion, raise my finger say 'aha', say 'moving is easy'",2022.06.30,567,00:14:13,70.0,0
+922,"I wanna get up, burst into motion, raise my finger say 'aha', say 'moving is easy'",2022.06.30,567,00:14:13,70.0,23198
 923,I wanna be the cichorium,2022.07.01,419,00:48:16,60.6,25075
 924,I wanna see the sky 2,2022.07.01,155,00:18:21,47.4,17547
 925,ANIA x Needle,2022.07.01,561,00:38:51,54.3,25084
 926,I wanna commemorate today,2022.07.02,86,00:16:24,55.5,20336
 927,I wanna —,2022.07.02,1539,00:32:56,53.5,25076
 928,I wanna descend the 69 (normal),2022.07.08,4300,04:30:13,72.0,16264
-929,I wanna reset,2022.07.08,108,00:06:54,,0
+929,I wanna reset,2022.07.08,108,00:06:54,,-1
 930,Tori another 2,2022.07.11,123,00:08:18,49.2,25100
 931,Soda evaporation,2022.07.11,20,00:03:40,26.2,25103
 932,jtool needle collection uwu 1,2022.07.11,243,00:19:23,49.3,25107
 933,Melancholy needle 3,2022.07.13,1798,02:23:38,65.8,25118
 934,Gap needle,2022.07.14,54,00:02:04,33.3,25123
-935,Irregular needle collab campaign (ez all clear),2022.07.25,137,00:47:02,,0
+935,Irregular needle collab campaign (ez all clear),2022.07.25,137,00:47:02,,-1
 936,Ebb Needle 2022,2022.07.28,876,01:43:47,61.4,25194
 937,I wanna be a small world,2022.07.31,0,00:00:51,12.8,25193
 938,I wanna detach myself from reality to stop being depressed,2022.07.31,1626,01:13:34,65.0,25189
 939,Moonstone,2022.07.31,609,01:01:28,66.8,25187
 940,the real 50 stevenjocker area,2022.08.02,20,00:15:31,22.1,25179
-941,I wanna be the se tu,2022.08.06,126,00:10:21,,0
+941,I wanna be the se tu,2022.08.06,126,00:10:21,,-1
 942,Journey to the Firmament,2022.08.09,512,00:55:46,60.7,25229
 943,Inspiration needle II,2022.08.10,1275,01:33:58,72.0,25268
 944,2022 needle(all clear),2022.08.11,1692,03:33:58,66.9,25262

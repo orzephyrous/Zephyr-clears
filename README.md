@@ -8,5 +8,5 @@ The clear list was originally a MS Excel sheet, converted to csv for better vers
 
 ## TODO
 
-- [] Upload game archives to release (per month?).
+- [ ] Upload game archives to release (per month?).
 
