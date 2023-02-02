@@ -97,7 +97,7 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 96,I wanna Arcfox 100,2019.07.27,489,01:31:38,37.0,18660
 97,Iwanna reflection,2019.07.28,116,00:10:36,31.9,23754
 98,I wanna Ridianfengshan,2019.07.29,1249,01:20:32,43.0,23596
-99,I Wanna Vibe With The Gods,2019.07.30,88,00:09:09,71.4,22782
+99,Iwanna vibe,2019.07.30,88,00:09:09,29.6,23747
 100,I wanna Dst[ick]orv,2019.07.30,76,00:07:09,N/A,23598
 101,I wanna be the Roze_L,2019.07.31,330,00:12:58,46.4,21004
 102,I wanna pilipala biu～biu～,2019.07.31,222,00:27:41,31.8,18605
@@ -381,7 +381,7 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 380,Lonely Rabbit Spike,2020.01.29,1604,00:58:45,66.3,21070
 381,I wanna be the the the the the the the,2020.01.29,595,00:46:23,48.7,21512
 382,I wanna eat the Mysterious xob,2020.01.29,43,01:03:07,27.2,11511
-383,I Wanna ¿,2020.01.29,11,00:01:04,78.0,21563
+383,I Wanna ¿(super nerfed),2020.01.29,11,00:01:04,N/A,-1
 384,I wanna eat the Stuffed Animal,2020.01.29,3,00:14:36,27.5,11515
 385,I wanna be the Kagurk,2020.01.30,658,00:36:45,57.6,21516
 386,I wanna eat the Rori Girl,2020.01.30,15,00:26:50,16.9,11514
@@ -416,7 +416,7 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 415,I hate this i wanna!,2020.02.13,7,00:06:24,32.5,21560
 416,I wanna enjoy the afternoon,2020.02.13,422,00:23:07,60.5,21555
 417,I wanna sunworld 3,2020.02.14,77,00:44:01,32.0,25315
-418,I wanna purify,2020.02.15,302,00:26:13,54.5,20016
+418,I wanna purify(special content),2020.02.15,302,00:26:13,N/A,24902
 419,I wanna be the Kaleidoscope,2020.02.15,141,00:59:42,46.3,15698
 420,I wanna be the Vidro,2020.02.15,58,00:12:13,38.8,16234
 421,I wanna eat the Book,2020.02.16,116,02:39:37,26.5,11506
@@ -434,7 +434,7 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 433,I wanna beat the Cactus jump,2020.02.22,1,00:00:10,61.6,12210
 434,I wanna break through Seven trials,2020.02.23,3457,01:16:08,70.7,11449
 435,Spice of Life Needle,2020.02.25,1308,01:32:59,61.0,21586
-436,I wanna ,2020.02.25,1268,00:35:43,N/A,24028
+436,I wanna (^^),2020.02.25,1268,00:35:43,64.6,21584
 437,I wanna escape from the Needle Land,2020.02.25,670,00:30:16,47.1,15076
 438,Violet,2020.02.25,161,00:14:21,47.0,21582
 439,monSpike,2020.02.26,262,00:21:51,53.8,21589
@@ -445,7 +445,7 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 444,Oaildlo Needle,2020.02.29,1161,01:45:38,55.3,20410
 445,I wanna be the Common Spike 2,2020.02.29,797,00:47:29,56.6,19118
 446,The Great And Powerful Normal Player,2020.02.29,224,00:22:04,42.9,21595
-447,I wanna be the cream needle,2020.02.29,0,00:01:05,N/A,-1
+447,I wanna be the cream needle (bug?),2020.02.29,0,00:01:05,N/A,-1
 448,I wanna go the Attikotti,2020.03.02,103,00:36:28,41.0,18459
 449,Refine needle,2020.03.03,163,00:14:29,45.3,21602
 450,You Suffer,2020.03.03,45,00:01:11,26.0,21454
@@ -487,7 +487,7 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 486,I wanna stop the Stars,2020.03.29,N/A,N/A,45.5,12483
 487,Sadness needle,2020.03.30,108,00:09:33,44.5,21708
 488,I wanna Princess Connect,2020.04.01,416,00:23:14,74.0,21711
-489, I Wanna Boom the Yukorin Twice,2020.04.01,500,00:29:32,64.4,21710
+489,I Wanna Boom the Yukorin Twice,2020.04.01,500,00:29:32,64.4,21710
 490,Untitled20γ,2020.04.02,80,00:08:31,44.0,21262
 491,I wanna Awful Needle,2020.04.05,965,01:06:33,63.1,17483
 492,I wanna go the trap way,2020.04.05,188,00:37:06,30.9,17809
@@ -639,7 +639,7 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 638,Watery Phantasm,2020.08.14,1099,01:38:29,67.0,22306
 639,I wanna be the good background music1,2020.08.17,537,00:59:41,N/A,17876
 640,Chew 039,2020.08.20,563,00:38:51,56.2,22336
-641,I wanna Rorschach Test ,2020.08.20,455,00:24:11,57.7,18841
+641,I wanna Rorschach Test,2020.08.20,455,00:24:11,57.7,18841
 642,I wanna Jguy Spike 2,2020.08.20,374,00:27:58,56.5,12362
 643,Fha Needle 0,2020.08.21,566,00:42:52,53.0,22341
 644,Stars,2020.08.21,70,00:08:28,29.9,22338
@@ -689,7 +689,7 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 688,hello,2020.11.19,22,00:02:38,N/A,25893
 689,I Wanna be the Zeus,2020.11.22,237,00:07:32,62.5,14983
 690,Chew 032,2020.11.25,480,00:25:28,52.0,23719
-691,I wanna be the Aidoru ,2020.11.27,362,00:37:40,55.3,22659
+691,I wanna be the Aidoru,2020.11.27,362,00:37:40,55.3,22659
 692,I wanna adventure,2020.11.28,55,00:08:40,N/A,-1
 693,Matige Needle,2020.11.29,469,00:19:03,50.1,22687
 694,Rainy day,2020.11.29,85,00:08:44,45.2,22689
@@ -947,3 +947,5 @@ No.,Name,Date,Deaths,Time,Difficulty,ID
 946,I want subtle madness,2022.08.21,732,01:01:14,65.0,25311
 947,I wanna take a break,2022.08.26,28,00:10:36,37.3,25335
 948,Jushi Needle 2022,2022.12.20,930,00:54:46,57.3,25865
+949,Thanks for 2022!!,2023.01.25,2,00:07:33,19.6,26034
+950,Focal,2023.01.09,150,00:15:06,51.3,26055
