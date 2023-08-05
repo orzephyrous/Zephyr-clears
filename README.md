@@ -12,7 +12,7 @@ Cleared games are archived in Baidu Netdisk [here](https://pan.baidu.com/s/1NnC4
 
 | Games | Deaths | Time      |
 | ----- | ------ | --------- |
-| 972   | 587677 | 695:10:02 |
+| 977   | 590229 | 700:01:17 |
 
 | Difficulty | counts |
 |:-----------|-------:|
@@ -22,8 +22,8 @@ Cleared games are archived in Baidu Netdisk [here](https://pan.baidu.com/s/1NnC4
 | [20,30)    |     98 |
 | [30,40)    |    123 |
 | [40,50)    |    169 |
-| [50,60)    |    253 |
-| [60,70)    |    175 |
+| [50,60)    |    255 |
+| [60,70)    |    178 |
 | [70,80)    |     45 |
 | [80,90)    |      1 |
 | [90,100]   |      0 |
@@ -37,9 +37,9 @@ Cleared games are archived in Baidu Netdisk [here](https://pan.baidu.com/s/1NnC4
 | [3,4)  |     24 |
 | [4,5)  |     59 |
 | [5,6)  |    141 |
-| [6,7)  |    333 |
-| [7,8)  |    274 |
-| [8,9)  |     42 |
+| [6,7)  |    334 |
+| [7,8)  |    277 |
+| [8,9)  |     43 |
 | [9,10] |      5 |
 
 ## TODO
