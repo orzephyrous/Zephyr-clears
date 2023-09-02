@@ -12,7 +12,7 @@ Cleared games are archived in Baidu Netdisk [here](https://pan.baidu.com/s/1NnC4
 
 | Games | Deaths | Time      |
 | ----- | ------ | --------- |
-| 977   | 590229 | 700:01:17 |
+| 985   | 596726 | 710:12:23 |
 
 | Difficulty | counts |
 |:-----------|-------:|
@@ -21,9 +21,9 @@ Cleared games are archived in Baidu Netdisk [here](https://pan.baidu.com/s/1NnC4
 | [10,20)    |     30 |
 | [20,30)    |     98 |
 | [30,40)    |    123 |
-| [40,50)    |    169 |
-| [50,60)    |    255 |
-| [60,70)    |    178 |
+| [40,50)    |    170 |
+| [50,60)    |    257 |
+| [60,70)    |    183 |
 | [70,80)    |     45 |
 | [80,90)    |      1 |
 | [90,100]   |      0 |
@@ -37,12 +37,7 @@ Cleared games are archived in Baidu Netdisk [here](https://pan.baidu.com/s/1NnC4
 | [3,4)  |     24 |
 | [4,5)  |     59 |
 | [5,6)  |    141 |
-| [6,7)  |    334 |
-| [7,8)  |    277 |
-| [8,9)  |     43 |
+| [6,7)  |    337 |
+| [7,8)  |    280 |
+| [8,9)  |     45 |
 | [9,10] |      5 |
-
-## TODO
-
-- [ ] Upload game archives to release?.
-- [x] Upload game archives to a net disk.
